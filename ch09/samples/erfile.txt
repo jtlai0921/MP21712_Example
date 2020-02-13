@@ -1,0 +1,4 @@
+line1 block1
+line2 block2
+*
+line5 block5
